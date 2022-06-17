@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web frontend programming languages**
 
-- 👯 I’m looking to collaborate on **Web Applications remote jobs**
+- 👯 I’m looking to collaborate on **Web Applications and remote jobs**
 
 - 👨‍💻 All of my projects are available at [https://sahar-se.github.io/Portfolio/](https://sahar-se.github.io/Portfolio/)
 
