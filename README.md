@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Goods Supplement E-Governmental Project**
 
-- 🌱 I’m currently learning **Web frontend programming language**
+- 🌱 I’m currently learning **Web frontend programming languages**
 
 - 👯 I’m looking to collaborate on **Web Applications remote jobs**
 
