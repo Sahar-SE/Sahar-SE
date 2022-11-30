@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/saharsaba amiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saharsaba amiri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saharsaba amiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saharsaba amiri" height="30" width="40" /></a>
-<a href="https://fb.com/saharsaba amiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saharsaba amiri" height="30" width="40" /></a>
+<a href="https://www.facebook.com/saharsaba.amiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saharsaba amiri" height="30" width="40" /></a>
 <a href="https://instagram.com/saharsaba amiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saharsaba amiri" height="30" width="40" /></a>
 </p>
 
