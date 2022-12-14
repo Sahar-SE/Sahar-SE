@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahar Saba Amir</h1>
+<h1 align="center">Hi 👋, I'm Sahar Saba Amiri</h1>
 <h3 align="center">A passionate full-stack developer from Afghanistan.I am building mobile and web apps capable of working remote and on relocation. I am available for hire or looking for a new opportunity<br><a href="https://sahar-se.github.io/Portfolio/">My Portfolio</a></h3>
 <img align="center" width="100%" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47i4u0cv5r98dfyahax39z6g6mzmjkdcvomwpyep0z&rid=giphy.gif&ct=g"
 
